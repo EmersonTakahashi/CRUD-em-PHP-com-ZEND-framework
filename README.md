@@ -1,4 +1,5 @@
 # ZendSkeletonApplication
+PS. É necessário editar os dados referente a conexão com o banco de dados MySql no arquivo module\Pessoa\config\module.config.php!
 
 ## Introduction
 
